@@ -28,4 +28,4 @@ You can view my portfolio here:
 
 ## 📧 Contact
 If you would like to reach me, click the **Contact Me** button on the site or email me directly:  
-**your-email@example.com**
+**sharinewawira@gmail.com**
